@@ -55,7 +55,7 @@ idea, but you can style your implementation as you like. BMI is defined as m / h
 kilograms and h is the height in metres.)
 ## __________________________________________________________________________
 # Hip Hop Loop
-## Task C (max 2 XP)
+## Task C 
 Create a web page consisting of file task_c.html (starting page) and possibly other (HTML, JavaScript and
 CSS) files as you see fit. When task_c.html is opened with a browser, the user should be able to input two
 integer numbers. At least the integers in the interval [0, 1000] should be supported. There should also be a
@@ -71,4 +71,3 @@ value itself. Every time the button is clicked, the old lines should be removed 
 resulting from the new evaluation possibly using different number interval. See Figure 3 – but make your
 implementation more beautiful!
 
-## _______________________________________________The End________________________________________________
