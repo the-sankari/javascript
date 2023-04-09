@@ -1,0 +1,137 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-top: 2rem;
+  }
+  
+  label {
+    font-size: 1.5rem;
+  }
+  
+  input[type="number"] {
+    width: 10rem;
+    height: 2.5rem;
+    font-size: 1.5rem;
+    margin: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 1rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #output {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  body {
+    background-color: #F5F5F5;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #5E5E5E;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #BDBDBD;
+    margin-top: 50px;
+    padding: 20px;
+  }
+  
+  form label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  form input[type="number"] {
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #3E8E41;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+  }
+  
+  li {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #BDBDBD;
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  li:nth-child(odd) {
+    background-color: #F2F2F2;
+  }
+  
+  li .hip {
+    color: #E91E63;
+    font-weight: bold;
+  }
+  
+  li .hop {
+    color: #00BCD4;
+    font-weight: bold;
+  }
+  
+  li .hiphop {
+    color: #FFC107;
+    font-weight: bold;
+  }
+    

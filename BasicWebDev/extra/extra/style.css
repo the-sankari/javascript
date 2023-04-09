@@ -1,0 +1,15 @@
+.navbar{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar div a{
+    color: black;
+    text-decoration: none;
+    padding: 12px 14px;
+    background-color: blanchedalmond;
+    margin: 12px ;
+    border: 1px solid #474545;
+    border-radius: 5px;
+}
